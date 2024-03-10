@@ -1,0 +1,23 @@
+header{
+    background-color: #3D464D;
+}
+.head-menu{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.navbar{
+    display: flex;
+    gap: 15px;
+}
+.head-icons{
+    display: flex;
+    gap: 15px;
+}
+.icon-heart:before {
+    content: "\e9da";
+  
+}
+.icon-bin2:before {
+    content: "\e9ad";
+  }
